@@ -1,4 +1,4 @@
-## 一键搭建博客框架（Jekyll主题）,
+## 一键搭建博客框架（Jekyll主题）
 
                 .::         .::                       .::      .::                 
                 .::       .:.::                        .::   .::                    
@@ -11,11 +11,14 @@
                                  http://yzcjd.github.io
             #### ``Lightweight``  ``Minimalist``  ``Jekyll blog``
 
-### 主题效果：[跳转] (http://yzcjd.github.io)
+### 主题效果：[跳转](http://yzcjd.github.io)
 ### 简中文档：[跳转](/ChinaREADME.md)
-### 框架fork自项目[Liberxue/liberxue.github.io] (https://github.com/Liberxue/liberxue.github.io)
+### 框架fork自项目:[Liberxue/liberxue.github.io](https://github.com/Liberxue/liberxue.github.io)
+
 ----------
-English Doc:
+## Build a github blog with one click（Jekyll themes）
+
+### English Doc
 
 #### The first step is to click [fork][https://github.com/liberxue/liberxue.github.io/fork]
 #### The second step is to modify the _config.yml in URL for your domain name
