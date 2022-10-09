@@ -26,13 +26,13 @@
 
 # Build a github blog with one click（Jekyll themes）
 
-## The first step is to click [fork](https://github.com/liberxue/liberxue.github.io/fork).
+### The first step is to click [fork](https://github.com/liberxue/liberxue.github.io/fork).
 
-## The second step is to modify the _config.yml in URL for your domain name.
+### The second step is to modify the _config.yml in URL for your domain name.
 
-## OK,all right,it's that simple.
+### OK,all right,it's that simple.
 
-## I don't want any copyright also don't need you to donate, I only need you with a star 🌟, Thx 😄.
+### I don't want any copyright also don't need you to donate, I only need you with a star 🌟, Thx 😄.
 
 - [x] Automatic generation tag
 - [x] Automatic generation of JSON search
