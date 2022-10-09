@@ -1,14 +1,14 @@
 # ----------- CONFIGURABLE START -----------
 title:            "Xunuo|许诺|fork爱好者|jekyll blog|GitHub blog"
 description:      "这个人很懒，什么也氵"
-url:              https://xunuo.github.io # 域名
-signoff:          "LiberXue" # Your name
+url:              https://yzcjd.github.io # 域名
+signoff:          "Xunuo" # Your name
 facebook_appid:   #liberxue
 google_analytics: UA-101222464-1
 share:            true 
 # 分页
 paginate: 15
-paginate_path: "liberxuepage:num"
+paginate_path: "yzcjd:num"
 gems: [jekyll-paginate]
 links:
   - name:         首页
