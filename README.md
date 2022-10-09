@@ -10,7 +10,7 @@
                 .::      .::.::   .::.:         .::    .::   .::  .::  .::.:        
                 .::::::::.::.:: .::    .::::   .:::   .::      .::  .::.::  .::::   
                           Copyright (c) 2022-2052 yzcjd
-                                 http://yzcjd.github.io
+                                [yzcjd.github.io](http://yzcjd.github.io)
 
 ### 主题效果：[跳转](http://yzcjd.github.io)
 ### 简中文档：[跳转](/ChinaREADME.md)
