@@ -22,7 +22,7 @@
 
 .
 
-----------
+.
 
 # Build a github blog with one click（Jekyll themes）
 
@@ -87,7 +87,3 @@
 .
 
 ![modify _config.yml url URL for your domain](https://raw.githubusercontent.com/Liberxue/liberxue.github.io/master/thumbnails/04.gif)
-
-.
-
-.
