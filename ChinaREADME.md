@@ -19,15 +19,17 @@
 - [x] 修改_config.yml  的paginate 为您的按照多少页分页
 
 
-#### 具体操作：
+#### 效果预览：
 
 ![uiliberxue](https://raw.githubusercontent.com/Liberxue/liberxue.github.io/master/thumbnails/ui.jpg) 
  
  ----------
 ![博客搜索](https://raw.githubusercontent.com/Liberxue/liberxue.github.io/master/thumbnails/01.gif) 
 
-轻量级 最小blog 
-第一步: 点击 [fork](https://github.com/Liberxue/liberxue.github.io#fork-destination-box)
+
+#### 具体操作：
+
+##### 第一步: 点击 [fork](https://github.com/Liberxue/liberxue.github.io#fork-destination-box)
  
 ----
 
@@ -36,7 +38,7 @@
   
 
 
-第二步: 修改_config.yml 中的url 为您的域名
+##### 第二步: 修改_config.yml 中的 url 为您的域名
 
 ![修改_config.yml 中的url 为您的域名](https://raw.githubusercontent.com/Liberxue/liberxue.github.io/master/thumbnails/04.gif)
 
