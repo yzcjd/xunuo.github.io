@@ -1,3 +1,5 @@
+## 一键搭建博客框架（Jekyll主题）,
+
                 .::         .::                       .::      .::                 
                 .::       .:.::                        .::   .::                    
                 .::         .::         .::    .: .:::  .:: .::   .::  .::   .::    
@@ -5,15 +7,15 @@
                 .::      .::.::   .::.::::: .:: .::     .:: .::   .::  .::.::::: .::
                 .::      .::.::   .::.:         .::    .::   .::  .::  .::.:        
                 .::::::::.::.:: .::    .::::   .:::   .::      .::  .::.::  .::::   
-                          Copyright (c) 2016-2018 liberxue
-                                 http://www.liberxue.com
-                           
-#### liberxue.github.io preview (demo) (http://www.liberxue.com)
+                          Copyright (c) 2022-2052 yzcjd
+                                 http://yzcjd.github.io
+            #### ``Lightweight``  ``Minimalist``  ``Jekyll blog``
 
-#### `Jekyll Themes`
+### 主题效果：[跳转] (http://yzcjd.github.io)
+### 简中文档：[跳转](/ChinaREADME.md)
+### 框架fork自项目[Liberxue/liberxue.github.io] (https://github.com/Liberxue/liberxue.github.io)
 ----------
-[简体中文版帮助文档README](/ChinaREADME.md)
-#### ``Lightweight``  ``Minimalist``  ``Jekyll blog``
+English Doc:
 
 #### The first step is to click [fork][https://github.com/liberxue/liberxue.github.io/fork]
 #### The second step is to modify the _config.yml in URL for your domain name
@@ -62,9 +64,4 @@
 
 
 
-* [Issues](https://github.com/Liberxue/liberxue.github.io/issues)
- 
-* [Email](mailto:liberxue@gmail.com)
- 
-* [Twitter](https://twitter.com/liberxue).
-
+.
