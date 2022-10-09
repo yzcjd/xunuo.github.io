@@ -9,8 +9,9 @@
                 .::::::::.::.:: .::    .::::   .:::   .::      .::  .::.::  .::::   
                           Copyright (c) 2022-2052 yzcjd
                                  http://yzcjd.github.io
-            #### ``Lightweight``  ``Minimalist``  ``Jekyll blog``
 
+#### ``Lightweight``  ``Minimalist``  ``Jekyll blog``
+                    
 ### 主题效果：[跳转](http://yzcjd.github.io)
 ### 简中文档：[跳转](/ChinaREADME.md)
 ### 框架fork自项目:[Liberxue/liberxue.github.io](https://github.com/Liberxue/liberxue.github.io)
