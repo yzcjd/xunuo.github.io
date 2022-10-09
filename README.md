@@ -74,7 +74,7 @@
 
 ----------
 
-## 1.First step Click [fork](https://github.com/Liberxue/liberxue.github.io#fork-destination-box)
+### 1.First step Click [fork](https://github.com/Liberxue/liberxue.github.io#fork-destination-box)
 
 .
 
@@ -82,7 +82,7 @@
 
 .
 
-## 2. modify _config.yml url URL for your domain
+### 2. modify _config.yml url URL for your domain
 
 .
 
