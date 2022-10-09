@@ -1,6 +1,6 @@
 ## 一键搭建博客框架（Jekyll主题）
 
-### ``Lightweight``  ``Minimalist``  ``Jekyll blog``
+### ``Lightweight``  |  ``Minimalist``  |  ``Jekyll blog``
 
                 .::         .::                       .::      .::                 
                 .::       .:.::                        .::   .::                    
@@ -14,18 +14,25 @@
 
 #### 主题效果：[跳转](http://yzcjd.github.io)
 #### 简中文档：[跳转](/ChinaREADME.md)
-#### 框架fork自项目:[Liberxue/liberxue.github.io](https://github.com/Liberxue/liberxue.github.io)
+#### 框架fork自项目：[Liberxue/liberxue.github.io](https://github.com/Liberxue/liberxue.github.io)
+
+.
+
+.
+
+.
 
 ----------
-## Build a github blog with one click（Jekyll themes）
 
-#### The first step is to click [fork](https://github.com/liberxue/liberxue.github.io/fork)
+# Build a github blog with one click（Jekyll themes）
 
-#### The second step is to modify the _config.yml in URL for your domain name
+## The first step is to click [fork](https://github.com/liberxue/liberxue.github.io/fork).
 
-#### OK all right, it's that simple
+## The second step is to modify the _config.yml in URL for your domain name.
 
-#### I don't want any copyright also don't need you to donate, I only need you with a star 🌟  Thx 😄
+## OK,all right,it's that simple.
+
+## I don't want any copyright also don't need you to donate, I only need you with a star 🌟, Thx 😄.
 
 - [x] Automatic generation tag
 - [x] Automatic generation of JSON search
@@ -67,7 +74,7 @@
 
 ----------
 
-### 1.First step Click [fork](https://github.com/Liberxue/liberxue.github.io#fork-destination-box)
+## 1.First step Click [fork](https://github.com/Liberxue/liberxue.github.io#fork-destination-box)
 
 .
 
@@ -75,7 +82,7 @@
 
 .
 
-### 2. modify _config.yml url URL for your domain
+## 2. modify _config.yml url URL for your domain
 
 .
 
