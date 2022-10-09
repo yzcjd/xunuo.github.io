@@ -1,15 +1,21 @@
-#### liberxue.github.io demo [查看](https://liberxue.github.io/)
+## Jekyll 轻量级极简博客
 
+### 主题效果：[跳转](http://yzcjd.github.io)
 
-`Jekyll Themes`
+### 简中文档：[跳转](/ChinaREADME.md)
+
+### 框架fork自项目:[Liberxue/liberxue.github.io](https://github.com/Liberxue/liberxue.github.io)
+
 ----------
-  
-### Jekyll轻量级极简博客
 
 #### 第一步：点击 [fork](https://github.com/Liberxue/liberxue.github.io#fork-destination-box)
+
 #### 第二步：修改_config.yml 中的 url 为 GitHub 用户名.github.io
+
 #### OK，搭建好了，就这么简单。
+
 #### 我不要任何版权也不需要您捐款，帮忙 star，给个🌟就行谢谢 😄
+
 - [x] 自动生成标签
 - [x] 自动生成json搜索
 - [x] 自适应模板
